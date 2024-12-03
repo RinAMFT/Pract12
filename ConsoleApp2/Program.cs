@@ -9,7 +9,7 @@ namespace ConsoleApp2
     internal class Program
     {
         /// <summary>
-        /// Определить статический метод int Kop (int r, int k); Task2
+        /// Определить статический метод int Kop (int r, int k)
         /// </summary>
         /// <param name="args"></param>
         static int Kop(int r, int k)
